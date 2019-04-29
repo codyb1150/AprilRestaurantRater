@@ -6,6 +6,7 @@ using System.Web;
 
 namespace RestaurantRaterMVC.Models
 {
+    
     public class Restaurant
     {
         public int RestaurantID { get; set; }
